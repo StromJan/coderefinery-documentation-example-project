@@ -1,1 +1,5 @@
-Script analyse_spreadsheet.py does this and this
+# Temperature analysis
+## analyse_spreadseet
+
+You can run the analyse_spreadsheet script with:
+python analyse_spreadsheet.py
